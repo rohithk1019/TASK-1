@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background-color:gray;
+    color: white;
+    padding: 30px;
+}
+
+section {
+    
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color:black;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background-color:gray;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
